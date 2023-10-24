@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='fea7034d-7704-4848-ba8e-a8db507f8a5e.gif' width='400' alt='Video Walkthrough' 
+<img src='fea7034d-7704-4848-ba8e-a8db507f8a5e.gif' width='400' alt='Video Walkthrough' />
 
 ## Notes
 
