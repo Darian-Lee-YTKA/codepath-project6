@@ -22,8 +22,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='ceb403a8-79b4-4bbb-9c6d-2fc947f2f105.gif' width='400' alt='Video Walkthrough' />![image](https://github.com/Darian-Lee-YTKA/codepath-project6/assets/136937505/fa59732b-4425-4dfa-9526-98912237ee5e)
-
+<img src='fea7034d-7704-4848-ba8e-a8db507f8a5e.gif' width='400' alt='Video Walkthrough' 
 
 ## Notes
 
